@@ -3,13 +3,13 @@
 
 // Set these to run example.
 
-#define FIREBASE_HOST "home-automation-db6ca-default-rtdb.firebaseio.com"
+#define FIREBASE_HOST "YOUR FIREBASE HOST"
 
-#define FIREBASE_AUTH "4HXWqPFU0YXzKwLjjjb3BbkARc4CHx2KwMmQQoEh"
+#define FIREBASE_AUTH "YOUR FIREBASE AUTH"
 
-#define WIFI_SSID "balajibalaji"
+#define WIFI_SSID "YOUR WIFI SSID"
 
-#define WIFI_PASSWORD "12aspirine"
+#define WIFI_PASSWORD "YOUR WIFI PASSWORD"
 
 #define LED1 D5
 #define LED2 D2
